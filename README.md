@@ -6,8 +6,9 @@
 ## Description
 A hello app created using rails + react to generate random greeting messages from database.
 
-This is the front-end of the hello application. Find the back-end repository here:
-`git clone git@github.com:Draxeytina/hello-rails-back-end.git`
+This is the front-end of the hello application. 
+Find the back-end repository here:
+https://github.com/Draxeytina/hello-rails-back-end
 
 
 ## Built With
