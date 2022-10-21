@@ -1,46 +1,65 @@
-# Getting Started with Create React App and Redux
+# Hello React Front-end
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+## Description
+A hello app created using rails + react to generate random greeting messages from database.
 
-## Available Scripts
+This is the front-end of the hello application. Find the back-end repository here:
+`git clone git@github.com:Draxeytina/hello-rails-back-end.git`
 
-In the project directory, you can run:
 
-### `npm start`
+## Built With
+- JavaScript
+- React
+- Redux
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## See Project
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Run it
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Use the following steps to run this Project locally:
 
-### `npm run build`
+- Create a directory
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Open the terminal
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Run this command:
+`git clone git@github.com:Draxeytina/hello-react-front-end.git` & `git clone git@github.com:Draxeytina/hello-rails-back-end.git`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Enter in to the rails folder:
+`cd hello-rails-back-end`
 
-### `npm run eject`
+- Open the folder with a code editor
+`run rails s`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Enter in to the react folder:
+`cd hello-react-front-end`
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Open the folder with a code editor
+`npm start`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Author 🖋️
+👤 Tinashe Timothy Murambinda
+* <a href="https://github.com/Draxeytina/">Github</a>
+* <a href="https://twitter.com/tinamura2">Twitter</a>
+* <a href="https://www.linkedin.com/in/timothy-tinashe-murambinda/">LinkedIn</a>
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🤝 Contributing
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+- Code reviewers
+- Coding partners
+
+## 📝 License
+
+This project is [MIT](https://github.com/Draxeytina/hello-react-front-end/MIT.md) licensed.
