@@ -15,8 +15,6 @@ This is the front-end of the hello application. Find the back-end repository her
 - React
 - Redux
 
-## See Project
-
 
 ## Run it
 
