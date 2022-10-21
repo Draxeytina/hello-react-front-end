@@ -49,9 +49,8 @@ Use the following steps to run this Project locally:
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+-Contributions, issues, and feature requests are welcome!
+-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
