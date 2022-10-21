@@ -1,5 +1,8 @@
 # Hello React Front-end
 
+![image](https://user-images.githubusercontent.com/59999191/197294850-77c38a60-10a6-446c-bb30-35147bcaf29c.png)
+
+
 ## Description
 A hello app created using rails + react to generate random greeting messages from database.
 
